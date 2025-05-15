@@ -4,6 +4,6 @@ Common Lisp CFFI wrapper around the DuckDB C API
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/ak-coram/cl-duckdb.git |
-| commit  | 335cccb                                       |
+| commit  | 82c7ed4                                       |
 | systems | duckdb                                        |
 |---------+-----------------------------------------------|
